@@ -1,6 +1,8 @@
 package ejercicios;
 import java.util.Scanner;
 
+
+//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
 public class Ejercicio1_AC {
     public static Scanner teclado = new Scanner(System.in);
 
