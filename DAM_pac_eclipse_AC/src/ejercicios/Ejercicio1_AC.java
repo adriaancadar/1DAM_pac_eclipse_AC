@@ -23,7 +23,7 @@ public class Ejercicio1_AC {
         double presupuesto = teclado.nextDouble();
         
         System.out.println("¿Proyectos Terminados? (true o false): ");
-        boolean proyectosTerminados = teclado.nextBoolean();//
+        boolean proyectosTerminados = teclado.nextBoolean();
 
 
         boolean resultado = auditoriaEmpresa(salarioJefe, salarioEncargado, salarioOficinistas, numOficinistas, presupuesto, proyectosTerminados);
